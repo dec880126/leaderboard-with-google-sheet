@@ -3,4 +3,4 @@
 
 ## demo
 
-<a href = 'http://cyuanmc.synology.me/memeRanking/'>http://cyuanmc.synology.me/memeRanking/</a>
+<a href = 'http://cyuanmc.synology.me/memeRanking/' target = '_blank'>http://cyuanmc.synology.me/memeRanking/</a>
